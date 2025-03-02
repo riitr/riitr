@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajat Sehgal!  
 
-##🚀 **Full Stack Developer    |     IIT Roorkee '18    |    AWS Certified**  
+## 🚀 Full Stack Developer    |     IIT Roorkee '18    |    AWS Certified  
 
 🔹 Passionate about building scalable applications, optimizing performance, and automating workflows.  
 🔹 Love working with **Node.js, TypeScript, React, PostgreSQL, AWS, SQL, NoSQL, Sytem Design, Docker & Jenkins**.  
