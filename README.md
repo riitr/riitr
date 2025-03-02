@@ -74,7 +74,7 @@
 
 ### **Software Engineer at Lumiq.ai (India) | June 2018 - April 2020**
 
-🔗 **[My Website](https://rajatsehgal.com)**  
+To know more: 🔗 **[My Website](https://rajatsehgal.com)**  
 
 
 ---
