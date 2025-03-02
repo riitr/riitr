@@ -13,12 +13,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajat_iitr/)
 
 
----
-
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riitr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riitr&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=riitr&theme=highcontrast)
 
 ---
 
@@ -58,6 +52,7 @@
 
 ---
 
+
 ## 🏆 **Projects & Open Source Contributions**
 ### 🔹 **pgHENCHMAN** ([Live Demo](https://pghenchman.netlify.app/))  
 🛠 **An open-source PostgreSQL Client** with a modern UI for database administration.  
@@ -70,6 +65,7 @@
 ### 🔹 **CSV File Handler** ([Live Demo](https://csv-file-handler.netlify.app/))  
 📂 Converts CSV files to structured JSON with header filtering.  
 
+
 ---
 
 ## 🎯 **Certifications & Achievements**
@@ -77,11 +73,6 @@
 ✅ **International Rank #59 in National Cyber Olympiad (NCO)**  
 ✅ **Scored 100/100 in Mathematics (CBSE Board)**  
 ✅ **Technical Blogger on Medium (12,000+ reads)**  
-
----
-
-## 🎯 **GitHub Contribution Graph**
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=riitr&theme=react-dark)
 
 ---
 
