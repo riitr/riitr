@@ -5,12 +5,16 @@
 🔹 Passionate about building scalable applications, optimizing performance, and automating workflows.  
 🔹 Love working with **Node.js, TypeScript, React, PostgreSQL, AWS, SQL, NoSQL, Sytem Design, Docker & Jenkins**.  
 
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://rajatsehgal.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsehgal.iitr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatsehgal95iitr/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/riitr)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajat_sehgal)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajat_iitr/)
+
+
 
 
 
@@ -66,15 +70,28 @@
 🔹 Boosted API performance **10x** with **Redis caching**.  
 🔹 Migrated **1M+ user locations** with **zero downtime**.  
 
+
 ### **Full Stack Engineer at FARMFETCH (Remote, USA) | Oct 2021 - July 2022**
 🔹 Led a team to build a **scalable platform** using **React, Node.js, and Azure Cosmos DB**.  
 🔹 Improved API **performance by 30%** with **NestJS optimizations**.  
+
+
+### **Full Stack Engineer at ASTS Technology (Remote, Australia) | May 2020 - Oct 2021**
+🔹 Led the development of a **user-centric platform** using React and Node.js, enabling lecturers to manage **5,000+ students' progress**.  
+🔹 Automated **results and attendance tracking**, reducing workload by **70%** through process optimization.  
+🔹 Built a **configurable reporting tool**, increasing productivity by **20%** with automation.  
+🔹 Designed a **drag-and-drop intervention framework**, driving the product’s best-selling feature.  
+🔹 Created a **reusable React component library**, reducing client-side codebase by **30%** and improving developer efficiency.  
+
 
 ### **Software Engineer at Lumiq.ai (India) | June 2018 - April 2020**
 🔹 Built a **blockchain-powered KYC encryption system** with **Ethereum & RSA algorithms**.  
 🔹 Designed API endpoints for **loan risk calculations**, handling **100K+ users**.  
 
+
+
 ---
+
 
 
 ## 🏆 **Projects & Open Source Contributions**
@@ -90,7 +107,10 @@
 📂 Converts CSV files to structured JSON with header filtering.  
 
 
+
 ---
+
+
 
 ## 🎯 **Certifications & Achievements**
 ✅ **AWS Certified Developer – Associate**  
@@ -98,7 +118,11 @@
 ✅ **Scored 100/100 in Mathematics (CBSE Board)**  
 ✅ **Technical Blogger on Medium (12,000+ reads)**  
 
+
+
 ---
+
+
 
 
 ## 🚀 **Let's Connect!**
