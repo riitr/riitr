@@ -64,30 +64,17 @@
 
 ## 💼 **Work Experience**
 ### **Backend Engineer at ATMA (Remote, Indonesia) | July 2022 - Present**
-🔹 Built a **scalable notification system** delivering **10,000+ messages/month** using AWS SQS/SNS.  
-🔹 Developed a **high-performance microservices queue** to synchronize millions of users.  
-🔹 Saved **$145,000/year** by replacing costly third-party APIs with in-house solutions.  
-🔹 Boosted API performance **10x** with **Redis caching**.  
-🔹 Migrated **1M+ user locations** with **zero downtime**.  
 
 
 ### **Full Stack Engineer at FARMFETCH (Remote, USA) | Oct 2021 - July 2022**
-🔹 Led a team to build a **scalable platform** using **React, Node.js, and Azure Cosmos DB**.  
-🔹 Improved API **performance by 30%** with **NestJS optimizations**.  
 
 
 ### **Full Stack Engineer at ASTS Technology (Remote, Australia) | May 2020 - Oct 2021**
-🔹 Led the development of a **user-centric platform** using React and Node.js, enabling lecturers to manage **5,000+ students' progress**.  
-🔹 Automated **results and attendance tracking**, reducing workload by **70%** through process optimization.  
-🔹 Built a **configurable reporting tool**, increasing productivity by **20%** with automation.  
-🔹 Designed a **drag-and-drop intervention framework**, driving the product’s best-selling feature.  
-🔹 Created a **reusable React component library**, reducing client-side codebase by **30%** and improving developer efficiency.  
 
 
 ### **Software Engineer at Lumiq.ai (India) | June 2018 - April 2020**
-🔹 Built a **blockchain-powered KYC encryption system** with **Ethereum & RSA algorithms**.  
-🔹 Designed API endpoints for **loan risk calculations**, handling **100K+ users**.  
 
+🔗 **[My Website](https://rajatsehgal.com)**  
 
 
 ---
