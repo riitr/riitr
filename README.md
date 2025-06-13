@@ -65,12 +65,16 @@
 
 ## 🏗 Projects & Open Source
 
-- **[pgHENCHMAN](https://github.com/riitr/pgHENCHMAN)** – PostgreSQL Client with modern UI  
-  🔹 *Featured on PostgreSQL's official website under dev tools.*
+- **ThePlanPilot** – AI Agent (In Progress ... COMING SOON)
+  
+- **[LingoLive](https://lingolive.in)** – WebRTC based Video Streaming App ([Live Demo](https://lingolive.in)) 
 
 - **[Short URL](https://github.com/riitr/short-url)** – URL shortener with password protection *(React + TypeScript)*
+  
+- **[pgHENCHMAN](https://github.com/riitr/pgHENCHMAN)** – PostgreSQL Client with modern UI  ([Live Demo](https://pghenchman.netlify.app/)) 
+  🔹 *Featured on PostgreSQL's official website under dev tools.*
 
-- **[CSV File Handler (Live)](https://csv-demo-link.com)** – Converts CSV to structured JSON with filtering
+- **[CSV File Handler (Live)](https://csv-demo-link.com)** – Converts CSV to structured JSON with filtering ([Live Demo](https://csv-file-handler.netlify.app/))  
 
 ---
 
