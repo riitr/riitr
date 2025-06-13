@@ -91,7 +91,7 @@
 
 📧 [rsehgal.iitr@gmail.com](mailto:rsehgal.iitr@gmail.com)  
 🌐 [Portfolio](https://rajatsehgal.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/rajatsehgal)  
+💼 [LinkedIn](https://www.linkedin.com/in/rajatsehgal95iitr/)  
 💻 [GitHub](https://github.com/riitr)  
 ✍️ [Medium](https://medium.com/@rajat_sehgal)  
 📸 [Instagram](https://instagram.com/rajat_iitr)
