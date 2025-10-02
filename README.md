@@ -65,7 +65,7 @@
 
 ## 🏗 Projects & Open Source
 
-- **ThePlanPilot** – AI Agent (In Progress ... COMING SOON)
+- **[ThePlanPilot](https://theplanpilot.com)** – AI Agent for Smart Planning ([Live Demo](https://theplanpilot.com)) 
   
 - **[LingoLive](https://lingolive.in)** – WebRTC based Video Streaming App ([Live Demo](https://lingolive.in)) 
 
